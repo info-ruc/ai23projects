@@ -6,7 +6,7 @@ reports collected for AI class project @2023
 ```
 2020201512
   ┃
-  ┗ 2020201512.pptx / 2020201512.docx
+  ┗ 2020201512.md / 2020201512.tex
   ┃
   ┗ src
     ┃
